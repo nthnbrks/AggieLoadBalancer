@@ -1,0 +1,5 @@
+servers 10
+runtime 10000
+cooldown 10
+arrival 5
+blocked 250.0.0.0 255.255.255.255
